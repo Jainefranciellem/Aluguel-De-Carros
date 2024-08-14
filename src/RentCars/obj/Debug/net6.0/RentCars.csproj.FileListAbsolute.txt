@@ -1,0 +1,12 @@
+/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.csproj.AssemblyReference.cache
+/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.AssemblyInfoInputs.cache
+/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.AssemblyInfo.cs
+/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.csproj.CoreCompileInputs.cache
+/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars/bin/Debug/net6.0/RentCars.deps.json
+/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars/bin/Debug/net6.0/RentCars.dll
+/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars/bin/Debug/net6.0/ref/RentCars.dll
+/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars/bin/Debug/net6.0/RentCars.pdb
+/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.dll
+/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/ref/RentCars.dll
+/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.pdb

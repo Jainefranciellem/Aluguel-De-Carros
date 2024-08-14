@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars.Test.Test/RentCars.Test.Test.csproj": {}
+  },
+  "projects": {
+    "/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars.Test.Test/RentCars.Test.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars.Test.Test/RentCars.Test.Test.csproj",
+        "projectName": "RentCars.Test.Test",
+        "projectPath": "/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars.Test.Test/RentCars.Test.Test.csproj",
+        "packagesPath": "/home/usuario/.nuget/packages/",
+        "outputPath": "/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars.Test.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/usuario/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars/RentCars.csproj": {
+                "projectPath": "/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars/RentCars.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.17.2, )"
+            },
+            "XunitXml.TestLogger": {
+              "target": "Package",
+              "version": "[3.0.70, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.132/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars/RentCars.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars/RentCars.csproj",
+        "projectName": "RentCars",
+        "projectPath": "/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars/RentCars.csproj",
+        "packagesPath": "/home/usuario/.nuget/packages/",
+        "outputPath": "/home/usuario/Documentos/Eletiva-C#/PROJETO/csharp-027-csharp-projeto-aluguel-de-carros/src/RentCars/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/usuario/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.132/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
